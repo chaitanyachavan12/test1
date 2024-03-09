@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "please provide the directory name"
+echo "Directory_Name"
 
 read name
 
